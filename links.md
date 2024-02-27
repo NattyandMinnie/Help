@@ -1,5 +1,14 @@
 # Software Collection Pages
 
+## Table of Contents
+- [Population Genetics and Genomics](#population-genetics-and-genomics)
+- [Bioinformatics](#bioinformatics)
+- [Genomic Data Analysis](#genomic-data-analysis)
+- [Genomic Databases and Repositories](#genomic-databases-and-repositories)
+- [Genomic Visualization Tools](#genomic-visualization-tools)
+- [Other Resources](#other-resources)
+
+
 ## Population Genetics and Genomics
 
 1. **[FriendsDontLetFriends GITHUB help page for visualizations](https://github.com/cxli233/FriendsDontLetFriends)**: A GitHub repository that provides resources for creating data visualizations.
