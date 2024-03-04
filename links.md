@@ -25,6 +25,8 @@
 
 7. **[Slim](https://www.slimframework.com/docs/v3/)**: A PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
 
+8.**[https://www.progenygenetics.com/online-pedigree/](https://www.progenygenetics.com/online-pedigree/)**: Online tool for drawing pedigrees. 
+
 ## Bioinformatics
 
 1. **[Database of Bioinformatics Software Tools and Resources](https://bioinformaticshome.com/db/)**: A comprehensive database of bioinformatics software tools and resources.
@@ -82,6 +84,12 @@
 14. **[Cdrom2021](https://ibg.colorado.edu/cdrom2021/)**: A resource for the 2021 CD-ROM of the Behavior Genetics Association.
 
 15. **[Genomics Boot Camp](https://genomicsbootcamp.github.io/book/)**: An online book providing a boot camp style introduction to genomics.
+
+16. **[Center for Statistical Genetics Software](https://sph.umich.edu/csg/software.html)**: An overview of softwares for Statistical Genetics.
+
+17. **[Laboratories Statistical Genetics and Genetic Epidemiology: Daniel J. Schaid](https://www.mayo.edu/research/labs/statistical-genetics-genetic-epidemiology/software)**: Overview of software for Statistical Genetic and Epidemiology.
+
+18. **[IPGRI and Cornell University, 2003, Genetic diversity analysis with molecular marker data: Learning module](https://cropgenebank.sgrp.cgiar.org/images/file/learning_space/molecular_markers/volume2/12_Software%2520programs.pdf)**: PPT overview of softwares for investigating genetic diversity using molecular markers.
 
 ## Genomic Databases and Repositories
 
