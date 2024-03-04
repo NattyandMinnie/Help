@@ -25,7 +25,7 @@
 
 7. **[Slim](https://www.slimframework.com/docs/v3/)**: A PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
 
-8.**[https://www.progenygenetics.com/online-pedigree/](https://www.progenygenetics.com/online-pedigree/)**: Online tool for drawing pedigrees. 
+8. **[Progenygenetics](https://www.progenygenetics.com/online-pedigree/)**: Online tool for drawing pedigrees. 
 
 ## Bioinformatics
 
