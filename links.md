@@ -164,3 +164,4 @@
 6. **[Galaxy](https://usegalaxy.org/)**: An open-source platform for accessible, reproducible, and transparent computational research.
 
 7. **[Sci-hub](https://sci-hub.se/)**: A website that provides free access to millions of research papers and books, bypassing publisher paywalls.
+8. **[Speciation Genomics](https://speciationgenomics.github.io/haplotypes/)**: Github site with easy and understandable explenations, (rehh package for example).
