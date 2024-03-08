@@ -52,6 +52,8 @@
 11. **[SAGE](http://darwin.cwru.edu/sage/pages/system_requirement.php)**: Statistical Analysis for Genetic Epidemiology, a free software package containing programs for use in the genetic analysis of family, pedigree and population data.
 
 12. **[bcftools](https://samtools.github.io/bcftools/bcftools.html)**: A set of utilities that manipulate variant calls in the Variant Call Format (VCF) and its binary counterpart BCF.
+    
+13. **[SnpEFF and SnpSift softwear](http://pcingola.github.io/SnpEff/snpeff/introduction/)**: Documentation and downloads to variant effect prediction and SIFT scores.
 
 ## Genomic Data Analysis
 
@@ -90,7 +92,6 @@
 17. **[Laboratories Statistical Genetics and Genetic Epidemiology: Daniel J. Schaid](https://www.mayo.edu/research/labs/statistical-genetics-genetic-epidemiology/software)**: Overview of software for Statistical Genetic and Epidemiology.
 
 18. **[IPGRI and Cornell University, 2003, Genetic diversity analysis with molecular marker data: Learning module](https://cropgenebank.sgrp.cgiar.org/images/file/learning_space/molecular_markers/volume2/12_Software%2520programs.pdf)**: PPT overview of softwares for investigating genetic diversity using molecular markers.
-19. **[SnpEFF and SnpSift softwear](http://pcingola.github.io/SnpEff/snpeff/introduction/)**: Documentation and downloads to variant effect prediction and SIFT scores.
 
 ## Genomic Databases and Repositories
 
