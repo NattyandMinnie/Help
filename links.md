@@ -90,6 +90,7 @@
 17. **[Laboratories Statistical Genetics and Genetic Epidemiology: Daniel J. Schaid](https://www.mayo.edu/research/labs/statistical-genetics-genetic-epidemiology/software)**: Overview of software for Statistical Genetic and Epidemiology.
 
 18. **[IPGRI and Cornell University, 2003, Genetic diversity analysis with molecular marker data: Learning module](https://cropgenebank.sgrp.cgiar.org/images/file/learning_space/molecular_markers/volume2/12_Software%2520programs.pdf)**: PPT overview of softwares for investigating genetic diversity using molecular markers.
+19. **[SnpEFF and SnpSift softwear](http://pcingola.github.io/SnpEff/snpeff/introduction/)**: Documentation and downloads to variant effect prediction and SIFT scores.
 
 ## Genomic Databases and Repositories
 
