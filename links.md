@@ -55,6 +55,10 @@
     
 13. **[SnpEFF and SnpSift softwear](http://pcingola.github.io/SnpEff/snpeff/introduction/)**: Documentation and downloads to variant effect prediction and SIFT scores.
 
+14. **[phasedibd](https://github.com/23andMe/phasedibd/tree/master)**: IBD detection program
+
+15. **[Selscan](https://github.com/szpiech/selscan/tree/master)**: XP-EHH (and more) detection program
+
 ## Genomic Data Analysis
 
 1. **[GnomAD harmonizing human exome and genome data](https://gnomad.broadinstitute.org/)**: A resource for exploring human genomic diversity.
