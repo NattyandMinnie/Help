@@ -53,11 +53,11 @@
 
 12. **[bcftools](https://samtools.github.io/bcftools/bcftools.html)**: A set of utilities that manipulate variant calls in the Variant Call Format (VCF) and its binary counterpart BCF.
     
-13. **[SnpEFF and SnpSift softwear](http://pcingola.github.io/SnpEff/snpeff/introduction/)**: Documentation and downloads to variant effect prediction and SIFT scores.
+13. **[SnpEFF and SnpSift softwear](http://pcingola.github.io/SnpEff/snpeff/introduction/)**: These are bioinformatics tools used for predicting the effects of genetic variants on genes and for filtering and manipulating variant annotations. SnpEFF predicts the impact of an alteration on genes (such as missense, nonsense, etc.), while SnpSift helps in filtering and manipulating genomic annotated variants.
 
-14. **[phasedibd](https://github.com/23andMe/phasedibd/tree/master)**: IBD detection program
+14. **[phasedibd](https://github.com/23andMe/phasedibd/tree/master)**: This is a software tool for detecting identity by descent (IBD) segments in phased genotype data. IBD detection is useful in genetic studies for identifying related individuals, mapping disease genes, and inferring population history.
 
-15. **[Selscan](https://github.com/szpiech/selscan/tree/master)**: XP-EHH (and more) detection program
+15. **[Selscan](https://github.com/szpiech/selscan/tree/master)**: This is a software tool designed to scan for positive selection in genomic data. It implements the Extended Haplotype Homozygosity (EHH), Integrated Haplotype Score (iHS), and Cross Population Extended Haplotype Homozygosity (XP-EHH) tests, among others, which are used to detect signals of recent positive selection in the genome.
 
 ## Genomic Data Analysis
 
