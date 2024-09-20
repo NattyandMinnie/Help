@@ -175,6 +175,8 @@
 
 8. **[Speciation Genomics](https://speciationgenomics.github.io/haplotypes/)**: Github site with easy and understandable explenations, (rehh package for example).
 
+9. **[Another list of resources](https://www.amnh.org/research/staff-directory/sergios-orestis-kolokotronis/evolutionary-genetics-software)**: American Museum of Natural History links to genetics software, apparently. 
+
 
 ## Citing and grammar help
 1. **[Grammarly]**:
