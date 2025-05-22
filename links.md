@@ -175,7 +175,19 @@
 
 8. **[Speciation Genomics](https://speciationgenomics.github.io/haplotypes/)**: Github site with easy and understandable explenations, (rehh package for example).
 
-9. **[Another list of resources](https://www.amnh.org/research/staff-directory/sergios-orestis-kolokotronis/evolutionary-genetics-software)**: American Museum of Natural History links to genetics software, apparently. 
+9. **[Another list of resources](https://www.amnh.org/research/staff-directory/sergios-orestis-kolokotronis/evolutionary-genetics-software)**: American Museum of Natural History links to genetics software, apparently.
+    
+11. **[Cheatsheet for linear models](https://github.com/lindeloev/tests-as-linear/blob/master/linear_tests_cheat_sheet.pdf)**:
+    
+12. **[Overview of Statistical Tests and linear model](https://libraryguides.unh.edu/c.php?g=326606&p=2191225)**:
+    
+14. **[Reporting Guidelines](https://www.equator-network.org/reporting-guidelines/)**: Reporting Guidelines when writing articles for different types of studies
+
+## Epidemiology
+
+1. **[Veterinary Epidemiological Research](https://projects.upei.ca/ver/data-and-samples/)**: Link to the book and data
+
+2. **[Applied Epid](https://epirhandbook.com/en/)**: Overview of how to do epi in R
 
 
 ## Citing and grammar help
