@@ -1,0 +1,59 @@
+Name in English				Abbreviation (English)
+Aegidienberger				AEG
+Arabian					ARB
+Swedish Ardennes			ARD
+Saxon-Thuringian Heavy Warmblood	ATH
+Belgian					BEL
+British Warmblood			BWB
+Coldblooded Trotter			CBT
+Coldblood				CLB
+Clydesdale				CLY
+Connemara				CNM
+American Curly				ACR
+Curly Trotter				CRT
+Dola horse				DOL
+Exmoor Pony				EXP
+Draft					DRF
+Düelmener				DUL
+Finnhorse				FIN
+Fjord horse				FJH
+Frederiksborg horse			FRB
+Faroese horse				FRH
+Friesian				FRI
+Franches‑Montagnes			FRM
+French Trotter				FRT
+Gotland pony				GTP
+German Warmblood			GWB
+Haflinger				HAF
+Hanoverian				HAN
+Holsteiner				HOL
+Icelandic horse				ICE
+Italian Trotter				ITT
+Jeju pony				JEJ
+Jutland horse				JUT
+Knabstrupper horse			KNB
+Dutch Warmblood				KWPN
+Lipizzaner				LIP
+Mangalarga Marchador horse		MAM
+Missouri Fox Trotter			MFT
+Miniature horse				MIN
+Morgan					MOR
+Nordland/lyngen horse			NLH
+Native Mongolian Chakouyi horse		NMC
+North Swedish horse			NSH
+Oldenburg				OLD
+Percheron				PER
+Pony					PNY
+Quarter horse				QTR
+Saddle Trotter				SDT
+Shetland				SHL
+Sorraia					SOR
+Standardbred 				STB
+Swedish Warmblood			WBS
+Swiss Warmblood				SWB
+Thoroughbred				THB
+Trakehner				TRK
+Tennessee Walking horse			TWH
+Westphalian				WES
+Welsh pony				WLP
+Yakut					YAK
